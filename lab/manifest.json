@@ -1,0 +1,14 @@
+{
+  "name": "Digital Leaders Lab",
+  "short_name": "DLlab",
+  "start_url": ".",
+  "display": "standalone",
+  "description": "DL Leaders App",
+  "icons": [
+    {
+      "src": "https://cdn.glitch.com/49d34dc6-8fbd-46bb-8221-b99ffd36f1af%2Ftouchicon-180.png?v=1566411949736",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
